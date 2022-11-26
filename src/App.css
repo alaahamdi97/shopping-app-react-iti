@@ -1,0 +1,21 @@
+/* .cartContainer,
+.ShopContainer,
+.DetailsContainer,
+.signInContainer,
+.signOutContainer {
+  background-color: #94b1d1;
+  height: 100%;
+  width: 100%;
+  padding-top: 1rem;
+}
+.homeContainer,
+.aboutContainer {
+  background-color: #94b1d1;
+  height: 100vh;
+  width: 100%;
+  padding-top: 1rem;
+}
+
+.productContainer {
+  box-shadow: 1px 5px 11px #062e5a;
+} */
